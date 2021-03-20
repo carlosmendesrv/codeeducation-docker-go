@@ -1,7 +1,4 @@
 
-![Full Cycle II](https://imersao.fullcycle.com.br/statics/img/logo-imersao.webp "Full Cycle II")
-
----
 ## Project: Desafio Go
 
 ### 💡 Challenge
