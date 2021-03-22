@@ -5,7 +5,7 @@ WORKDIR /go/src/app
 
 COPY . .
 
-RUN go build main.go
+RUN go build -ldflags "-w" main.go
 
 RUN go get -d -v ./...
 RUN go install -v ./...
